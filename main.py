@@ -17,6 +17,7 @@ if not os.path.exists(folder_path):
 # Number of page
 num = 10
 
+# Link of the movie
 url = f"https://animationscreencaps.com/{name}/page/{num}"
 
 # Create a session to maintain the connection
