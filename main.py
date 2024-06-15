@@ -4,8 +4,10 @@ import os
 from urllib.parse import urlparse
 import time
 
+# Name of the movies
 name = "robin-hood-1973"
 
+# Name of the folder
 folder_path = ".\\Frames"
 
 # Create a directory to save images and tags
