@@ -14,6 +14,7 @@ folder_path = ".\\Frames"
 if not os.path.exists(folder_path):
     os.mkdir(folder_path)
 
+# Number of page
 num = 10
 
 url = f"https://animationscreencaps.com/{name}/page/{num}"
